@@ -11,6 +11,7 @@ export default function Skills() {
           <li className='bg-white text-pastelBlue font-semibold w-fit px-4 py-2 rounded-md text-md'>Javascript</li>
           <li className='bg-white text-pastelBlue font-semibold w-fit px-4 py-2 rounded-md text-md'>RubyOnRails</li>
           <li className='bg-white text-pastelBlue font-semibold w-fit px-4 py-2 rounded-md text-md'>Ruby</li>
+          <li className='bg-white text-pastelBlue font-semibold w-fit px-4 py-2 rounded-md text-md'>SQL</li>
         </ul>
       </div>
       <div className='flex-1 bg-pastelPink p-8 rounded-md'>
